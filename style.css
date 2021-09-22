@@ -13,6 +13,7 @@ textarea{
     margin-right: auto;
     height: 10vh;
     display: block;
+    border: 1px solid black;
 }
 h1{
     color:white;
